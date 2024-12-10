@@ -1,0 +1,36 @@
+Machine Learning: A Comprehensive Overview
+
+Machine Learning is a subset of artificial intelligence that focuses on developing systems that can learn from and make decisions based on data. Unlike traditional programming where rules are explicitly coded, ML systems learn patterns from data.
+
+Key Components:
+1. Data Collection and Preprocessing
+- Gathering relevant data
+- Cleaning and normalizing
+- Feature engineering
+- Data splitting (train/test)
+
+2. Training Methods
+- Supervised Learning: Learning from labeled data
+- Unsupervised Learning: Finding patterns in unlabeled data
+- Reinforcement Learning: Learning through interaction
+
+3. Common Algorithms
+- Linear Regression
+- Decision Trees
+- Random Forests
+- Neural Networks
+- Support Vector Machines
+- K-means Clustering
+
+4. Model Evaluation
+- Accuracy metrics
+- Cross-validation
+- Overfitting prevention
+- Performance optimization
+
+Applications:
+- Image Recognition
+- Natural Language Processing
+- Recommendation Systems
+- Fraud Detection
+- Autonomous Vehicles
